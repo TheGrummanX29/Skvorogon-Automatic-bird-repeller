@@ -49,6 +49,6 @@ In the future, it is planned to switch to a microcomputer (like raspberry pi 5),
 Now the laser uses new mechanics. Also, the servo has been replaced with stepper motors, which allows for increased accuracy and speed
 
 ### New detection system
-<img src="images/NewBirdsDetection" alt="NewDetection" width="50%">
+<img src="images/NewBirdsDetection.png" alt="NewDetection" width="80%">
 
 Bird recognition now works on OpenCV. This significantly improves the speed and quality of work.
