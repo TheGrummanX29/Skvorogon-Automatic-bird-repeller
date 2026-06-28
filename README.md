@@ -26,3 +26,17 @@ Also, a person on the farm can control the work process using a web page. Otherw
   - ESP32 AI-Thinker
 
 <img src="images/RobotScheme.png" alt="Scheme" width="100%">
+
+## Electrical diagram
+<img src="images/RobotScheme.png" alt="Scheme" width="100%">
+
+## ESP32
+An ESP32 Cam was installed on the robot to automatically locate birds, as well as control them via the Internet.
+
+### Web page
+<img src="images/RobotScheme.png" alt="Scheme" width="80%">
+
+### Telegram bot
+<img src="images/RobotScheme.png" alt="Scheme" width="50%">
+
+<img src="images/RobotScheme.png" alt="Scheme" width="80%">
