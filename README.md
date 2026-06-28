@@ -22,4 +22,4 @@ An autonomous robot has been developed to disperse birds in cowsheds.
   - SG90 servo motor
   - ESP32 AI-Thinker
 
-<img src="images/Skvorogon.png" alt="Scheme" width="80%">
+<img src="images/RobotScheme.png" alt="Scheme" width="80%">
