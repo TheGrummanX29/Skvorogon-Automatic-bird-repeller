@@ -40,3 +40,15 @@ An ESP32 Cam was installed on the robot to automatically locate birds, as well a
 <img src="images/TgBotLogo.png" alt="Logo" width="50%">
 
 <img src="images/TgCommands.png" alt="Commands" width="50%">
+
+## Improving the robot
+In the future, it is planned to switch to a microcomputer (like raspberry pi 5), with a complex recognition model. Such a robot will already be able to recognize and monitor entire packs.
+### New laser system
+<img src="images/TgCommands.jpg" alt="NewLaser" width="50%">
+
+Now the laser uses new mechanics. Also, the servo has been replaced with stepper motors, which allows for increased accuracy and speed
+
+### New detection system
+<img src="images/TgCommands.jpg" alt="NewLaser" width="50%">
+
+Bird recognition now works on OpenCV. This significantly improves the speed and quality of work.
