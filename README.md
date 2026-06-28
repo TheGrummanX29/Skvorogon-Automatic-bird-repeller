@@ -1,4 +1,4 @@
-# Skvorogon: Automatic bird repeller
+# Skvorogon: Semi-Automatic bird repeller
 <img src="images/Skvorogon.png" alt="Title" width="100%">
 
 A semi-autonomous robot has been developed to disperse birds in cowsheds.
