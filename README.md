@@ -37,6 +37,6 @@ An ESP32 Cam was installed on the robot to automatically locate birds, as well a
 <img src="images/WebPage.png" alt="WebPage" width="50%">
 
 ### Telegram bot
-<img src="images/TgBotLogo" alt="Logo" width="50%">
+<img src="images/TgBotLogo.png" alt="Logo" width="50%">
 
 <img src="images/TgCommands.png" alt="Commands" width="50%">
