@@ -28,15 +28,15 @@ Also, a person on the farm can control the work process using a web page. Otherw
 <img src="images/RobotScheme.png" alt="Scheme" width="100%">
 
 ## Electrical diagram
-<img src="images/RobotScheme.png" alt="Scheme" width="100%">
+<img src="images/Scheme.png" alt="Scheme" width="100%">
 
 ## ESP32
 An ESP32 Cam was installed on the robot to automatically locate birds, as well as control them via the Internet.
 
 ### Web page
-<img src="images/RobotScheme.png" alt="Scheme" width="80%">
+<img src="images/WebPage.png" alt="Scheme" width="80%">
 
 ### Telegram bot
-<img src="images/RobotScheme.png" alt="Scheme" width="50%">
+<img src="images/TgBotLogo.png" alt="Scheme" width="50%">
 
-<img src="images/RobotScheme.png" alt="Scheme" width="80%">
+<img src="images/TgCommands.png" alt="Scheme" width="80%">
