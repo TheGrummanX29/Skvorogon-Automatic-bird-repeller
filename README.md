@@ -21,3 +21,5 @@ An autonomous robot has been developed to disperse birds in cowsheds.
   - Caddx FPV camera with transmitter
   - SG90 servo motor
   - ESP32 AI-Thinker
+
+<img src="images/Skvorogon.png" alt="Scheme" width="80%">
